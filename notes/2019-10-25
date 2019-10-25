@@ -4,17 +4,41 @@
 * Ian Scott
 * Hugh Cayless
 * Thibault Clerice
-* Vincent Jolivet
+* Jonathan
+* Matteo
 
-## Action Items
+## New Action Items 
+
+## New Decisions
+
+## Action Items (from last meeting)
 
 * Thibault to update issue [#164](https://github.com/distributed-text-services/specifications/issues/164) with a proposal for 
 how the range/capabilities metadata would be represented in the endpoints
+
+Done.  Gold star.
+
 * All to review and comment on [IIIF](https://github.com/distributed-text-services/specifications/issues/162) and [versioning](https://github.com/distributed-text-services/specifications/issues/161) 
 issues by the next meeting (25-Oct-2017)
+
+No gold stars for us. They have requested that we provide guidelines for integrating DTS with an IIIF application.  To do this well, we probably need some use cases.
+
 * All to review and comment on draft of [SWJ article](https://docs.google.com/document/d/1aQfREQtbLzfs6Hkya2QWnAfjOdpkClli3FuvSR4hxQY/edit). Article is due October 31. First drafts by October 21.
+
+Done.
+
 * Bridget to review Perseids implementation
+
+Done.  Three new issues submitted as a result.  Three gold stars.
+
 * Thibault and Ian to implement items [124](https://github.com/distributed-text-services/specifications/issues/124) and [141](https://github.com/distributed-text-services/specifications/issues/141)
+
+Thibault did this.  Another gold star.  Review namespace issue today.
+
+## Agenda Items
+
+* When do branches get merged?
+* Issue 24 (see above)
 
 ## Next Meeting
 
